@@ -1,0 +1,17 @@
+Package: OGDrawR
+Title: OGDraw-Style Circular Genome Maps for Plant Mitochondria
+Version: 0.1.0
+Authors@R: person("Zhicheng", "Jia", email = "zhicheng.jia@cau.edu.cn",
+    role = c("aut", "cre"))
+Description: Parse GenBank files and draw OGDraw-style circular maps for plant
+    mitochondrial genomes using the circlize package. Supports intron/exon
+    visualization, GC content rings, and automatic label de-overlapping.
+License: MIT + file LICENSE
+Imports: circlize
+Suggests: testthat (>= 3.0.0)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.0
+Config/testthat/edition: 3
+URL: https://github.com/zhichengjia/OGDrawR
+BugReports: https://github.com/zhichengjia/OGDrawR/issues
