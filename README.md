@@ -20,7 +20,7 @@
 
 ```r
 # install.packages("remotes")
-remotes::install_github("zhichengjia/OGDrawR")
+remotes::install_github("xibeixingchen/OGDrawR")
 ```
 
 ## Quick Start
@@ -66,7 +66,7 @@ draw_mito_map(parsed, "ZM4", colors = my_colors)
 
 If you use OGDrawR in your research, please cite:
 
-> Jia Z. (2026). OGDrawR: OGDraw-Style Circular Genome Maps for Plant Mitochondria. R package version 0.1.0. https://github.com/zhichengjia/OGDrawR
+> Jia Z. (2026). OGDrawR: OGDraw-Style Circular Genome Maps for Plant Mitochondria. R package version 0.1.0. https://github.com/xibeixingchen/OGDrawR
 
 ## License
 
