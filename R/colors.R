@@ -25,5 +25,5 @@ gene_colors <- c(
   rRNA         = "#FF0000",
   ori_rep      = "#FFB6C1",
   poly_trans   = "#BA55D3",
-  intron       = "#dad7d7ff"
+  intron       = "#FFFFFF"
 )

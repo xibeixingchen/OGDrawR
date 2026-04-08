@@ -3,7 +3,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-[**中文文档 / Chinese README**](README_zh.md)
+[**中文文档 | Chinese README**](README_zh.md)
 
 **OGDrawR** generates [OGDraw](https://chlorobox.mpimp-golm.mpg.de/OGDraw.html)-style circular genome maps for plant mitochondria entirely in R, powered by [circlize](https://github.com/jokergoo/circlize).
 
@@ -70,4 +70,4 @@ If you use OGDrawR in your research, please cite:
 
 ## License
 
-MIT © [Zhicheng Jia](mailto:zhicheng.jia@cau.edu.cn)
+MIT
